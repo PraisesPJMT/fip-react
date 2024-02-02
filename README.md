@@ -29,7 +29,7 @@
 
 > The following applications are required to be installed for the project to run!
 
-- Install a modern browser e.g [Google Chrome](https://www.google.com/chrome/), [Edge](https://www.microsoft.com/en-us/edge?r=1), [Firefox](https://www.mozilla.org/en-US/exp/firefox/new/) etc.
+- Install a modern browser e.g. [Google Chrome](https://www.google.com/chrome/), [Edge](https://www.microsoft.com/en-us/edge?r=1), [Firefox](https://www.mozilla.org/en-US/exp/firefox/new/) etc.
 - Install [Git](https://git-scm.com/downloads)
 
 ### Setup
@@ -37,8 +37,8 @@
 Clone this repository to your desired folder:
 
 ```sh
-  git clone git@github.com:PraisesPJMT/fip-react.git
-  cd fip-react
+  git clone git@github.com:PraisesPJMT/fit-react.git
+  cd fit-react
 ```
 
 ### Install
