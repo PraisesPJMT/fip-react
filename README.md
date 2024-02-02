@@ -37,8 +37,8 @@
 Clone this repository to your desired folder:
 
 ```sh
-  git clone git@github.com:PraisesPJMT/fit-react.git
-  cd fit-react
+  git clone git@github.com:PraisesPJMT/fip-react.git
+  cd fip-react
 ```
 
 ### Install
